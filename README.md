@@ -38,19 +38,16 @@ Follow these steps to **install and run VOXAMORA** on your machine.
 ```sh
 git clone https://github.com/YOUR_USERNAME/voxamora.git
 cd voxamora
+
 2️⃣ Install Dependencies
 Ensure you have Node.js (>=18) installed. Then, install the required packages:
 
-sh
-Copy
-Edit
+
 npm install
 3️⃣ Setup Environment Variables
 Create a .env.local file in the root directory and add the following:
 
-env
-Copy
-Edit
+
 MONGODB_URI=mongodb+srv://your_mongo_connection_string
 JWT_SECRET=your_secret_key
 NEXTAUTH_URL=http://localhost:3000
@@ -72,9 +69,7 @@ Replace MONGODB_URI in .env.local with your connection string.
 5️⃣ Start the Development Server
 Run the following command:
 
-sh
-Copy
-Edit
+
 npm run dev
 Your app will be available at http://localhost:3000 🎉.
 
@@ -97,9 +92,7 @@ TailwindCSS - Styling framework.
 
 To install any missing package:
 
-sh
-Copy
-Edit
+
 npm install package-name
 🔧 Common Issues & Fixes
 ❌ Issue	🔍 Possible Cause	🛠️ Fix
@@ -128,16 +121,3 @@ For any queries, reach out to:
 🌐 GitHub: https://github.com/Nsrevarsha
 
 🎉 Happy Coding & Welcome to VOXAMORA! 🚀
-
-yaml
-Copy
-Edit
-
----
-
-### **🔥 Why This README is Well-Structured?**
-✅ **Clear headings & emojis** for easy navigation.  
-✅ **Table of Contents** for quick access.  
-✅ **Step-by-step installation guide** (easy for beginners).  
-✅ **Common issues table** for troubleshooting.  
-✅ **Professional formatting** with proper spacing and bullet points.  
