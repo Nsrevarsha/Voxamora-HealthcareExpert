@@ -124,8 +124,8 @@ Submit a pull request 🎉
 
 📞 Contact
 For any queries, reach out to:
-📧 Email: your-email@example.com
-🌐 GitHub: Your GitHub Profile
+📧 Email: srevarsha.nandh@example.com
+🌐 GitHub: https://github.com/Nsrevarsha
 
 🎉 Happy Coding & Welcome to VOXAMORA! 🚀
 
